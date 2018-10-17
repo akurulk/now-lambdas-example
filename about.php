@@ -1,1 +1,1 @@
-<marquee>This is about gf 22</marquee>
+<marquee>This is about gf</marquee>
