@@ -1,6 +1,5 @@
 {
   "handlers": [
     { "src": "**.php", "use": "now/php" }
-  ],
-  "version": 2
+  ]
 }
