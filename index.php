@@ -1,1 +1,1 @@
-<marquee>This is index 122 233</marquee>
+<marquee>This is index 122</marquee>
