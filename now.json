@@ -1,6 +1,6 @@
 {
-  "handlers": [
-    { "src": "**.php", "use": "now/php" }
+  "builds": [
+    { "src": "*.php", "use": "@now/php" }
   ],
   "version": 2
 }
