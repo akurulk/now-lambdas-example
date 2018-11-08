@@ -1,1 +1,1 @@
-<marquee>PKR 12332434</marquee>
+<marquee>PKR 121 444</marquee>
