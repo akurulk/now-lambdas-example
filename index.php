@@ -1,1 +1,1 @@
-<marquee>This is index this is 112434</marquee>
+<marquee>PKR 123</marquee>
