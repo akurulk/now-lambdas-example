@@ -1,1 +1,1 @@
-<marquee>PKR 121 444</marquee>
+<marquee>PUBLIC NW</marquee>
