@@ -2,8 +2,7 @@
   "builds": [
     { "src": "*.php", "use": "@now/php" }
   ],
-  "alias": "now-lambdas-akurulk-sample.now.sh",
-  "version": 1
+  "alias": "now-lambdas-akurulk-sample.now.sh"
 }
 
 
